@@ -6,6 +6,6 @@
 - 🔭 My interests are
 - - 🤖 Deep Learning
 - - 🔐 Cybersecurity
-- - 👨‍💻Software Development
+- - 👨‍💻 Software Development
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/medinanicolas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/medina-nicolas/)
