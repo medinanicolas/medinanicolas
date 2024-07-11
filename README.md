@@ -1,11 +1,24 @@
 ### Hi there 👋
+<div style="text-align: center">
 
-* 🇨🇱 I'm from Chile
-- 🧰 I have experiencie in <img src="resources/img/python.svg" alt="python" height="20"/> <img src="resources/img/linux.svg" alt="linux" height="20"/> <img src="resources/img/javascript.svg" alt="javascript" height="20"/> <img src="resources/img/nodejs.svg" alt="nodejs" height="20"/> <img src="resources/img/mongo.svg" alt="mongo" height="20"/> <img src="resources/img/vuejs.svg" alt="vuejs" height="20"/>  
+My name is Nicolás and I live in Chile 🇨🇱.
 
-- 🔭 My interests are
-- - 🤖 Deep Learning
-- - 🔐 Cybersecurity
-- - 👨‍💻 Software Development
+I have experience beign a Software Developer who has worked in Full Stack projects with a variety of stacks and has knowledge in AI.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/medinanicolas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/medina-nicolas/)
+I consider myself a proactive, creative and self-taught person. Who is improving his English skills, learning more about Graph Databases and GenAI, and practicing with front-end applications.
+
+My goals are beign an expert in some area of technology 🦾.
+
+Some tools where I have experience with:
+
+<img src="https://skillicons.dev/icons?&i=py,bash,js,ts" /><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
+<img src="https://skillicons.dev/icons?&i=fastapi,django,flask,nodejs,nestjs,docker,git" /><br>
+<img src="https://skillicons.dev/icons?i=css,nextjs,react,redux,vue,vuetify,tailwind,bootstrap,materialui"/><br>
+
+
+<hr>
+If you want to know more about me, here is my Linkedin 👇
+
+<br><a class="in-line-center" href="https://www.linkedin.com/in/medina-nicolas/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+</div>
